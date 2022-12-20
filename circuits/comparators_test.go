@@ -1,4 +1,3 @@
-
 package circuits
 
 import (
@@ -44,4 +43,3 @@ func TestIsEqual(t *testing.T) {
 	internal, secret, public := _r1cs.GetNbVariables()
 	fmt.Printf("public, secret, internal %v, %v, %v\n", public, secret, internal)
 }
-

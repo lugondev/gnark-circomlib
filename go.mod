@@ -1,6 +1,6 @@
-module github.com/liyue201/gnark-circomlib
+module github.com/lugondev/gnark-circomlib
 
-go 1.17
+go 1.19
 
 require (
 	github.com/consensys/gnark v0.7.1
@@ -19,9 +19,9 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
 	github.com/rs/zerolog v1.26.1 // indirect
-	github.com/stretchr/testify v1.7.2 // indirect
+	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
-	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064 // indirect
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
+	golang.org/x/sys v0.0.0-20220727055044-e65921a090b8 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
